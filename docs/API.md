@@ -387,7 +387,7 @@
 ```
 
 #### 9. Отправить элементы в корзине по данной работе на проверку в технадзор
-```POST /users/send-for-checking`
+```POST /users/send-for-checking```
 
 - *Authorization*: **required**
 - *Roles*: **"подрядчик"**
